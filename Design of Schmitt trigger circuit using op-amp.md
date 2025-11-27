@@ -12,8 +12,10 @@ The circuit shows an inverting comparator with positive feedback. This circuit c
 When Vo= - Vsat, the voltage across R1 is referred to as lower threshold voltage, VLT. When Vo=+Vsat, the voltage across R1 is referred to as upper threshold voltage VUT. The comparator with positive feedback is said to exhibit hysteresis, a dead band condition.
 
 ## CIRCUIT DIAGRAM:
+![WhatsApp Image 2025-11-27 at 20 21 55_c1102fbd](https://github.com/user-attachments/assets/52aea489-25d6-43f1-a754-b9e3bdc856e7)
 
 ## MODEL GRAPH:
+![WhatsApp Image 2025-11-27 at 20 21 55_a97859c4](https://github.com/user-attachments/assets/7c47b627-7941-4a0a-8dbc-cc9129150dc1)
 
 ## PROCEDURE:
 1. Design the value of circuit components and select VUT & VLT as given in the design procedure.
@@ -26,10 +28,10 @@ When Vo= - Vsat, the voltage across R1 is referred to as lower threshold voltage
 <img width="953" height="586" alt="image" src="https://github.com/user-attachments/assets/1d2c221f-bb9f-4a6e-bceb-e7ecbceb4e38" />
 
 ## TABULATION:
-
-## CALCULATIONS:
+![WhatsApp Image 2025-11-27 at 20 21 56_34df667a](https://github.com/user-attachments/assets/56b6ca0c-3557-4b5d-a722-aba3f779240f)
 
 ## GRAPH:
+![WhatsApp Image 2025-11-27 at 20 21 56_d9f3a968](https://github.com/user-attachments/assets/8fe9f455-14d6-49d9-9c96-54c6805fffac)
 
 ## RESULT:
 Thus a Schmitt trigger is designed and tested using op-amp IC 741.
