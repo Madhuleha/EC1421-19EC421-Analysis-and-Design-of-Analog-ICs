@@ -29,7 +29,7 @@ Choose  R1 = 1kΩ, Rf=10kΩ
 
 
 ## CIRCUIT DIAGRAM:
-![WhatsApp Image 2025-11-27 at 20 10 19_715a970b](https://github.com/user-attachments/assets/fe0d81d9-d291-43db-8ad9-ccfb6280f6c6)
+![WhatsApp Image 2025-11-27 at 20 14 42_31d2dfeb](https://github.com/user-attachments/assets/16ffc303-4988-4edd-bf0b-87b85e88ecc6)
 
 ![WhatsApp Image 2025-11-27 at 20 10 19_69b557bd](https://github.com/user-attachments/assets/8492a668-43fe-4373-8acf-ad4bf30c17af)
 
